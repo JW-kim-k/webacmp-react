@@ -20,7 +20,7 @@ function Navi(){
 function Content(){
   return <article>
   <h2>Welcome</h2>
-  Hello,Web
+  Hello,Web !!!
 </article>
 }
 
